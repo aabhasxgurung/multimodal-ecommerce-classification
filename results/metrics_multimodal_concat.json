@@ -1,0 +1,7 @@
+{
+  "val_accuracy": 0.631,
+  "val_precision_macro": 0.470684929673428,
+  "val_recall_macro": 0.4490725077191158,
+  "val_f1_macro": 0.4254641320567494,
+  "model": "multimodal_concat"
+}

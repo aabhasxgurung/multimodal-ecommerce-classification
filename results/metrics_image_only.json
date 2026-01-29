@@ -1,0 +1,7 @@
+{
+  "val_accuracy": 0.513,
+  "val_precision_macro": 0.4975741725592825,
+  "val_recall_macro": 0.436240259109593,
+  "val_f1_macro": 0.4412540748728456,
+  "model": "image_only"
+}

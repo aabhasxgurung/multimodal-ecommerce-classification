@@ -1,1 +1,27 @@
 .DS_Store
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Virtual env
+.venv/
+venv/
+
+# Data (don't upload dataset)
+data/
+dataset/
+datasets/
+
+# Large outputs
+runs/
+checkpoints/
+wandb/
+
+models/*.pt
+models/*.pth

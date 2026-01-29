@@ -1,0 +1,31 @@
+# Core
+numpy
+pandas
+
+# Deep Learning
+torch
+torchvision
+
+# NLP
+transformers
+tokenizers
+
+# Image processing
+Pillow
+opencv-python
+
+# Metrics & evaluation
+scikit-learn
+
+# Visualization (used in notebook & results)
+matplotlib
+seaborn
+
+# Web app
+streamlit
+
+# Progress bars / utils
+tqdm
+
+# Optional but commonly required
+requests
